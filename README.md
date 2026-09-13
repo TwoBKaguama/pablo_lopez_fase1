@@ -7,9 +7,9 @@ Numero de pares de cartas: 6 pares, 12 cartas en total.
 
 Tematica de las cartas: cartas de Yu Gi Oh (Adreus Keeper of Armageddon, Alien Ammonite, Alien Mother, Dark Magician Girl the Dragon Knight, Magician of Black Chaos MAX, Magician's Robe).
 
-Enlace jugable: https://twobkaguama.github.io/memorama-test/
+Enlace jugable: https://github.com/TwoBKaguama/pablo_lopez_fase1.git
 
-Repositorio: https://github.com/TwoBKaguama/memorama-test
+Repositorio: https://twobkaguama.github.io/pablo_lopez_fase1/
 
 Resumen de la documentacion leida
 
