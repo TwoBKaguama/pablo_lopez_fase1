@@ -40,7 +40,7 @@ Senal 2, nativa de Godot. Senal usada: pressed, del nodo Button dentro de Pantal
 
 Dificultad principal
 
-Completa con tu experiencia real. Por ejemplo: evitar que el jugador pudiera voltear una tercera carta mientras ya habia dos boca arriba esperando comparacion. Esto se resolvio con la variable input_locked en main.gd.
+Completa con tu experiencia real: evitar que el jugador pudiera voltear una tercera carta mientras ya habia dos boca arriba esperando comparacion. Esto se resolvio con la variable input_locked en main.gd.
 
 Animacion de volteo de cartas usando Tween, escala en X a 0 y de regreso a 1, cambiando la textura a la mitad del movimiento, en lugar de un cambio instantaneo de imagen. Pantalla de victoria, PantallaVictoria, con ColorRect, Label y Button para reiniciar la partida sin recargar la pagina. Efecto visual al encontrar un par: la carta se atenua con modulate y se encoge levemente con scale para indicar que ya fue resuelta. Uso de Timer para dar un pequeno margen de tiempo antes de voltear de nuevo las cartas que no coincidieron, en vez de ocultarlas al instante.
 
